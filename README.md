@@ -8,7 +8,7 @@ Mysore, karnataka, India and also <b>Web Developer Lead</b> at
 matter.
 
 I like to prefer myself surround with people who are focused on
-execution :dart:, hardworking and always ready to help others in need. For me
+execution :dart:, hardworking :medal_military: and always ready to help :sweat_smile: others in need. For me
 helping society, fulfilling my parents dreams, being honest, fair and
 friendly with everyone is my everything.
      
