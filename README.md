@@ -1,5 +1,5 @@
 ## Hi there 👋 :pray: 
-I’m <b>[Binu Kumar](www.binu.live)</b>. I am a <b>Full Stack Developer</b> from India :india:.
+I’m <b>[Binu Kumar](https://www.binu.live)</b>. I am a <b>Full Stack Developer</b> from India :india:.
 
 I am currently in my <b>3rd year</b> studying <b>B.E.</b> in 
 <b>Computer Science :computer: </b> at <b>[JSS Science and Technology University](https://jssstuniv.in/)</b>,
@@ -13,7 +13,7 @@ helping society, fulfilling my parents dreams, being honest, fair and
 friendly with everyone is my everything.
      
 <p align="center">
-    <a href="www.binu.live" alt="portfolio">
+    <a href="https://www.binu.live" alt="portfolio">
         <img src="https://img.shields.io/badge/Portfolio-Binu42-brightgreen.svg" />
     </a>&emsp;
     <a href="https://www.linkedin.com/in/binu-kumar-5a7038146/" alt="LinkedIn">
