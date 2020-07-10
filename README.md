@@ -1,14 +1,14 @@
 ## Hi there 👋 :pray: 
-I’m <b>Binu</b>. I am a <b>Full Stack Developer</b> from India :india:.
+I’m <b>[Binu](www.binu.live)</b>. I am a <b>Full Stack Developer</b> from India :india:.
 
 I am currently in my <b>3rd year</b> studying <b>B.E.</b> in 
-<b>Computer Science</b> at <b>[JSS Science and Technology University](https://jssstuniv.in/)</b>,
+<b>Computer Science :computer: </b> at <b>[JSS Science and Technology University](https://jssstuniv.in/)</b>,
 Mysore, karnataka, India and also <b>Web Developer Lead</b> at
 <b>[Developer Student Clubs, JSSSTU](https://dscjssstu.netlify.app/)</b>. I prefer to keep learning, continue challenging myself, and do interesting things that
 matter.
 
 I like to prefer myself surround with people who are focused on
-execution, hardworking and always ready to help others in need. For me
+execution :dart:, hardworking and always ready to help others in need. For me
 helping society, fulfilling my parents dreams, being honest, fair and
 friendly with everyone is my everything.
      
