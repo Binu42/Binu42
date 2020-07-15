@@ -7,11 +7,6 @@ Mysore, karnataka, India and also <b>Web Developer Lead</b> at
 <b>[Developer Student Clubs, JSSSTU](https://dscjssstu.netlify.app/)</b>. I prefer to keep learning, continue challenging myself, and do interesting things that
 matter.
 
-I like to prefer myself surround with people who are focused on
-execution :dart:, hardworking :medal_military: and always ready to help :sweat_smile: others in need. For me
-helping society, fulfilling my parents dreams, being honest, fair and
-friendly with everyone is my everything.
-     
 <p align="center">
     <a href="https://www.binu.live" alt="portfolio">
         <img src="https://img.shields.io/badge/Portfolio-Binu42-brightgreen.svg" />
