@@ -1,11 +1,29 @@
 ## Hi there 👋 :pray: 
 I’m <b>[Binu Kumar](https://www.binu.live)</b>. I am a <b>Full Stack Developer</b> from India :india:.
 
-I am currently in my <b>3rd year</b> studying <b>B.E.</b> in 
-<b>Computer Science :computer: </b> at <b>[JSS Science and Technology University](https://jssstuniv.in/)</b>,
+I am currently <b>final year</b> <b>Computer Science :computer: </b> undergraduate at <b>[JSS Science and Technology University](https://jssstuniv.in/)</b>,
 Mysore, karnataka, India and also <b>Web Developer Lead</b> at
 <b>[Developer Student Clubs, JSSSTU](https://dscjssstu.netlify.app/)</b>. I prefer to keep learning, continue challenging myself, and do interesting things that
 matter.
+
+## My Skills
+```js
+let skills = {
+  language : [C++, Javascript, C, Python],
+  technology: {
+    JSFrameworks : [Node, React, Next, Meteor, Electron],
+    tools : [Git, Postman, Heroku, Netlify]
+  },
+  layout: {
+    markup: [HTML, EJS, Handlebars],
+    styling: [CSS, SASS, MaterialUI, SemanticUI, Bulma, Bootstrap]
+  },
+  database: {
+    relational : MongoDB,
+    nonRelational : MySQL
+  },
+}
+```
 
 <p align="center">
     <a href="https://www.binu.live" alt="portfolio">
