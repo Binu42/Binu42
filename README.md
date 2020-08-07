@@ -10,18 +10,16 @@ matter.
 ```js
 let skills = {
   language : [C++, Javascript, C, Python],
-  technology: {
-    JSFrameworks : [Node, React, Next, Meteor, Electron],
-    tools : [Git, Postman, Heroku, Netlify]
-  },
+  JSFramework : [Node, React, Next, Meteor, Electron],
   layout: {
     markup: [HTML, EJS, Handlebars],
     styling: [CSS, SASS, MaterialUI, SemanticUI, Bulma, Bootstrap]
   },
   database: {
-    relational : MongoDB,
-    nonRelational : MySQL
+    nonRelational : MongoDB,
+    relational : MySQL
   },
+  tools : [Git, Postman, Heroku, Netlify]
 }
 ```
 
