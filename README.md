@@ -1,9 +1,6 @@
 ## Hi there 👋 :pray: 
-I’m <b>[Binu Kumar](https://www.binu.live)</b>. I am a <b>Full Stack Developer</b> from India :india:.
-
-I am currently <b>final year</b> <b>Computer Science </b> undergraduate at <b>[JSS Science and Technology University](https://jssstuniv.in/)</b>,
-Mysore, karnataka, India. I prefer to keep learning, continue challenging myself, and do interesting things that
-matter.
+I’m <b>[Binu Kumar](https://www.binu.live)</b>. I am a <b>Full Stack Developer</b> from India :india:. I am currently <b>final year</b> <b>Computer Science </b> undergraduate at <b>[JSS Science and Technology University](https://jssstuniv.in/)</b>,
+Mysore, karnataka, India.
 
 ## My Skills
 ```js
