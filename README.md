@@ -1,14 +1,14 @@
 ## Hi there 👋 :pray: 
-I’m <b>[Binu Kumar](https://www.binu.live)</b>. I am a <b>Full Stack Developer</b> from India :india:. I am currently <b>final year</b> <b>Computer Science </b> undergraduate at <b>[JSS Science and Technology University](https://jssstuniv.in/)</b>,
-Mysore, karnataka, India.
+I’m <b>[Binu Kumar](https://www.binu.live)</b>. I am a <b>Full Stack Developer</b> from India :india:. I have <b>1+ years</b> of experience working in the software engineering domain. I have contributed to open source projects like <b><a href="https://github.com/covid19india/covid19india-react">covid19India</a></b>, <b><a href="https://github.com/Hacker0x01/react-datepicker">react-datepicker</a></b>, <b><a href="https://github.com/bradtraversy/design-resources-for-developers">bradtraversy/design-resources-for-developers</a></b>.
 
 ## My Skills
 ```js
 let skills = {
-  language : [C++, Javascript, C, Python],
-  JSFramework : [Node, React, Next, Meteor, Electron],
+  language : [Javascript, C++],
+  JSFramework : [Node, React, Vue, Next, Meteor, Electron],
+  stateManagement: [Redux, Vuex],
   layout: {
-    markup: [HTML, EJS, Handlebars],
+    markup: [HTML, EJS, Handlebars, JSX],
     styling: [CSS, SASS, MaterialUI, SemanticUI, Bulma, Bootstrap]
   },
   database: {
